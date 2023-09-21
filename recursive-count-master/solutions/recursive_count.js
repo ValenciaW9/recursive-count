@@ -109,7 +109,6 @@ test('returns undefined', () => {
 
 //The second test checks if calling recursiveCount returns undefined.
 
-//To make the tests work, you need to provide a valid implementation for the recursiveCount function in the pseudocode section.
 
 
 
